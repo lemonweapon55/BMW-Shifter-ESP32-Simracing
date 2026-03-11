@@ -1,0 +1,18 @@
+BMW-Shifter-ESP32-Simracing License
+Owner: lemonweapon55
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+
+WHAT THIS MEANS FOR YOU:
+- Personal Use: You are 100% free to build this for your own sim rig. 
+- Modification: You are encouraged to edit the code, add new BMW shifter IDs (E90, F30, G20, etc.), and share your improvements.
+- Attribution: If you share your modified version, you must credit "lemonweapon55" as the original creator.
+
+COMMERCIAL RESTRICTIONS:
+- You are NOT allowed to use this code or any part of this project for commercial profit.
+- This includes selling pre-flashed ESP32 chips, selling "Plug and Play" shifter kits, or running a production line using this logic.
+- If you build one for a friend and charge for the cost of parts, that's fine. If you open an online shop to mass-sell these, you are in violation of this license.
+
+For commercial licensing inquiries or special permissions, contact the repository owner.
+
+Full legal text: https://creativecommons.org
