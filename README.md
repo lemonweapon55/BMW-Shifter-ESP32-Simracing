@@ -22,6 +22,8 @@ You’ll need these basic parts:
 * **12V Power Supply 2/3A** (For the shifter LEDs and solenoids)
 * **Resistors 1K and 2K**
 * **Jumper wires**
+(Important notice-Make sure to keep the electrical noise around the CAN H/L Low or zero because it can
+affect the shifters performance.It can be done by keeping distance with the power wires and Can)
 
 ### 2. Wiring it up
 Follow this pin map to connect the ESP32 to the CAN module:
